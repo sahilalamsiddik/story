@@ -1,0 +1,9 @@
+| Command                    | What it does                             |
+| -------------------------- | ---------------------------------------- |
+| `git branch`               | Shows your branches                      |
+| `git branch branchName`    | Creates a new branch                     |
+| `git switch branchName`    | Moves to another branch                  |
+| `git switch -c branchName` | Creates **and switches** to a new branch |
+| `git checkout branchName`  | Older way to switch branches             |
+| `git branch -d branchName` | Deletes a branch                         |
+| `git branch -D branchName` | Force-deletes a branch                   |
