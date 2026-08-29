@@ -1,0 +1,9 @@
+| Command                   | What it does                                            |
+| ------------------------- | ------------------------------------------------------- |
+| `git init`                | Creates a new Git repository in your folder             |
+| `git status`              | Shows what files have changed, are untracked, or staged |
+| `git add filename`        | Adds a specific file to the staging area                |
+| `git add .`               | Adds **all changed/new files** to staging               |
+| `git commit -m "message"` | Saves the staged changes as a commit                    |
+| `git log`                 | Shows your commit history                               |
+| `git log --oneline`       | Shows commit history in a shorter format                |
