@@ -1,0 +1,9 @@
+l| Command                     | What it does                                          |
+| --------------------------- | ----------------------------------------------------- |
+| `git remote -v`             | Shows connected remote repositories                   |
+| `git remote add origin URL` | Connects your local repo to GitHub                    |
+| `git push`                  | Uploads your commits to the remote repository         |
+| `git push -u origin main`   | Pushes `main` and remembers the remote branch         |
+| `git pull`                  | Downloads remote changes **and integrates them**      |
+| `git fetch`                 | Downloads remote changes **without integrating them** |
+| `git clone URL`             | Downloads an existing GitHub repository               |
